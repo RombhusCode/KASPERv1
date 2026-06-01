@@ -25,7 +25,7 @@ To design a portable music player with a custom enclosure, PCB and software inte
 - Defined project requirements
 
 ### V1 Scope
-##Included
+## Included
 - Local MP3 playback
 - Spotify connect
 - Physical buttons
@@ -42,5 +42,5 @@ To design a portable music player with a custom enclosure, PCB and software inte
 ##Not Included
 - Retro Gaming
 - Touchscreen
-- 
+- Speakers
   
