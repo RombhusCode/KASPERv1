@@ -1,5 +1,5 @@
 # KASPERv1
-KASPER or 'Kali-Spotify-Player-Etcetera' is an MP3 player with local playback+Spotify connect on a Raspberry pi 2W
+KASPER is an MP3 player with local playback+Spotify connect on a Raspberry pi 2W
 
 ### Features
 - Local MP3 playback
