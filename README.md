@@ -23,3 +23,24 @@ To design a portable music player with a custom enclosure, PCB and software inte
 #June 1
 - Created project repo
 - Defined project requirements
+
+### V1 Scope
+##Included
+- Local MP3 playback
+- Spotify connect
+- Physical buttons
+- Raspberry pi Zero 2W
+- TFT display
+- I2S DAC
+- 3.5mm jack
+- Battery powered
+- Custom 3d printed enclosure
+- Custom carrier PCB(to avoid messy wires, give it a polished, sleek look)
+- firmware(minimal aesthetic UI)
+- Bluetooth Audio support
+  
+##Not Included
+- Retro Gaming
+- Touchscreen
+- 
+  
