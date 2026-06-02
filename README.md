@@ -12,8 +12,7 @@ KASPER is an MP3 player with local playback+Spotify connect on a Raspberry pi 2W
 - Custom 3d printed enclosure
 - Custom carrier PCB(to avoid messy wires, give it a polished, sleek look)
 - firmware(minimal aesthetic UI)
-- Mayb even gameboy game functionality(Possibly in V2)
-
+- Gameboy functionality
 ### Project goals
 
 To design a portable music player with a custom enclosure, PCB and software interface
